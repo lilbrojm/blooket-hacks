@@ -9,7 +9,7 @@ javascript: (async () => {
         let prizeOptions = {
             "hack":{},
             "gold":[
-                {type:'gold',     val:"<NUMBER>",  text: '', blook:"Walrus"},
+                {type:'gold',     val:"<N100000000>",  text: '', blook:"Walrus"},
                 {type:'nothing',  val:0,           text: '', blook:"Walrus"},
                 {type:'multiply', val:"<NUMBER>",  text: '', blook:"Walrus"},
                 {type:'divide',   val:"<PERCENT>", text: '', blook:"Walrus"},
